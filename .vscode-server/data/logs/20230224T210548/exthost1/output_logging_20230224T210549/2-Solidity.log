@@ -1,0 +1,65 @@
+[Info  - 9:05:50 PM] Solidity by Nomic Foundation Starting ...
+[Info  - 9:05:51 PM] env: production
+[Info  - 9:05:51 PM] Client starting
+[Info  - 9:05:51 PM] Language server starting
+[Info  - 9:05:51 PM]   Release: hardhat-solidity@0.6.11
+[Info  - 9:05:51 PM]   Environment: production
+[Info  - 9:05:51 PM]   Telemetry Enabled: false
+[Info  - 9:05:51 PM]   Telemetry Tracking Id: 0067dfea6e...
+[Info  - 9:05:51 PM]   Workspace Folders:
+[Info  - 9:05:51 PM]     root (file:///root)
+[Info  - 9:05:51 PM] Fetching latest solidity versions
+[Info  - 9:05:51 PM] Language server ready
+[Info  - 9:05:52 PM] [indexing] Found projects:
+[Info  - 9:05:52 PM] [indexing] -  Type: Hardhat
+[Info  - 9:05:52 PM] [indexing]    Base path: /root
+[Info  - 9:05:52 PM] [indexing]    Config file: /root/hardhat.config.js
+[Info  - 9:05:52 PM] [indexing] -  Type: Hardhat
+[Info  - 9:05:52 PM] [indexing]    Base path: /root/folder/hardhat-simple-storage-fcc
+[Info  - 9:05:52 PM] [indexing]    Config file: /root/folder/hardhat-simple-storage-fcc/hardhat.config.js
+[Info  - 9:05:52 PM] [indexing] Initializing /root/hardhat.config.js
+[Info  - 9:05:53 PM] [root] Local HRE loaded
+[Info  - 9:05:53 PM] [indexing] Done /root/hardhat.config.js
+[Info  - 9:05:53 PM] [indexing] Initializing /root/folder/hardhat-simple-storage-fcc/hardhat.config.js
+[Info  - 9:05:54 PM] [hardhat-simple-storage-fcc] Local HRE loaded
+[Info  - 9:05:54 PM] [indexing] Done /root/folder/hardhat-simple-storage-fcc/hardhat.config.js
+[Info  - 9:05:54 PM] [indexing] Scanning workspace folders for sol files
+[Info  - 9:05:54 PM] [indexing] Scan complete, 989 sol files found
+[Info  - 9:05:54 PM] [indexing] Analyzing 5 solidity files
+[Info  - 9:32:03 PM] [root] Config file changed. Restarting worker process.
+[Info  - 9:32:03 PM] [root] Child process exited: null
+[Info  - 9:32:04 PM] [root] Local HRE loaded
+[Info  - 9:46:28 PM] [root] Config file changed. Restarting worker process.
+[Info  - 9:46:28 PM] [root] Child process exited: null
+[Error - 9:46:28 PM] [root] "Error loading HRE: SyntaxError: Unexpected end of input"
+[Info  - 9:46:28 PM] [root] Child process exited: 1
+[Info  - 9:46:49 PM] [root] Config file changed. Restarting worker process.
+[Error - 9:46:50 PM] [root] "Error loading HRE: Error: Cannot find module './tasks/block-number'\nRequire stack:\n- /root/hardhat.config.js\n- /root/node_modules/hardhat/internal/core/config/config-loading.js\n- /root/node_modules/hardhat/register.js\n- /root/.vscode-server/extensions/nomicfoundation.hardhat-solidity-0.6.11/server/out/worker/WorkerProcess.js"
+[Info  - 9:46:50 PM] [root] Child process exited: 1
+[Info  - 9:52:50 PM] [root] Config file changed. Restarting worker process.
+[Info  - 9:52:51 PM] [root] Local HRE loaded
+[Info  - 9:52:51 PM] [root] Config file changed. Restarting worker process.
+[Info  - 9:52:51 PM] [root] Child process exited: null
+[Info  - 9:52:51 PM] [root] Local HRE loaded
+[Info  - 9:54:17 PM] [root] Config file changed. Restarting worker process.
+[Info  - 9:54:17 PM] [root] Child process exited: null
+[Info  - 9:54:17 PM] [root] Local HRE loaded
+[Info  - 9:55:58 PM] [root] Config file changed. Restarting worker process.
+[Info  - 9:55:58 PM] [root] Child process exited: null
+[Info  - 9:55:59 PM] [root] Local HRE loaded
+[Info  - 9:56:52 PM] [root] Config file changed. Restarting worker process.
+[Info  - 9:56:52 PM] [root] Child process exited: null
+[Info  - 9:56:52 PM] [root] Local HRE loaded
+[Info  - 9:58:45 PM] [root] Config file changed. Restarting worker process.
+[Info  - 9:58:45 PM] [root] Child process exited: null
+[Info  - 9:58:45 PM] [root] Local HRE loaded
+[Info  - 10:01:39 PM] [root] Config file changed. Restarting worker process.
+[Info  - 10:01:39 PM] [root] Child process exited: null
+[Error - 10:01:40 PM] [root] "Error loading HRE: HardhatError: HH8: There's one or more errors in your config file:\n\n  * Invalid account: #0 for network: goerli - private key too short, expected 32 bytes\n\nTo learn more about Hardhat's configuration, please go to https://hardhat.org/config/"
+[Info  - 10:01:40 PM] [root] Child process exited: 1
+[Info  - 10:02:36 PM] [root] Config file changed. Restarting worker process.
+[Error - 10:02:37 PM] [root] "Error loading HRE: HardhatError: HH8: There's one or more errors in your config file:\n\n  * Invalid account: #0 for network: goerli - private key too short, expected 32 bytes\n\nTo learn more about Hardhat's configuration, please go to https://hardhat.org/config/"
+[Info  - 10:02:37 PM] [root] Child process exited: 1
+[Info  - 10:02:37 PM] [root] Config file changed. Restarting worker process.
+[Error - 10:02:37 PM] [root] "Error loading HRE: HardhatError: HH8: There's one or more errors in your config file:\n\n  * Invalid account: #0 for network: goerli - private key too short, expected 32 bytes\n\nTo learn more about Hardhat's configuration, please go to https://hardhat.org/config/"
+[Info  - 10:02:37 PM] [root] Child process exited: 1

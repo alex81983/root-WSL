@@ -1,0 +1,18 @@
+'Log files:
+/root/.npm/_logs/2023-02-18T05_16_24_354Z-debug-0.log
+
+# npm resolution error report
+
+While resolving: hardhat-simple-storage-fcc@1.0.0
+Found: @nomiclabs/hardhat-ethers@0.3.0-beta.13
+node_modules/@nomiclabs/hardhat-ethers
+  dev @nomiclabs/hardhat-ethers@"npm:hardhat-deploy-ethers@^0.3.0-beta.13" from the root project
+
+Could not resolve dependency:
+peer @nomiclabs/hardhat-ethers@"^2.0.0" from @nomiclabs/hardhat-waffle@2.0.5
+node_modules/@nomiclabs/hardhat-waffle
+  dev @nomiclabs/hardhat-waffle@"*" from the root project
+
+Fix the upstream dependency conflict, or retry
+this command with --force or --legacy-peer-deps
+to accept an incorrect (and potentially broken) dependency resolution.

@@ -1,0 +1,64 @@
+[Info  - 1:43:05 PM] Solidity by Nomic Foundation Starting ...
+[Info  - 1:43:05 PM] env: production
+[Info  - 1:43:06 PM] Client starting
+[Info  - 1:43:06 PM] Language server starting
+[Info  - 1:43:06 PM]   Release: hardhat-solidity@0.6.11
+[Info  - 1:43:06 PM]   Environment: production
+[Info  - 1:43:06 PM]   Telemetry Enabled: false
+[Info  - 1:43:06 PM]   Telemetry Tracking Id: 0067dfea6e...
+[Info  - 1:43:06 PM]   Workspace Folders:
+[Info  - 1:43:06 PM]     root (file:///root)
+[Info  - 1:43:06 PM] Fetching latest solidity versions
+[Info  - 1:43:07 PM] Language server ready
+[Info  - 1:43:07 PM] [indexing] Found projects:
+[Info  - 1:43:07 PM] [indexing] -  Type: Hardhat
+[Info  - 1:43:07 PM] [indexing]    Base path: /root
+[Info  - 1:43:07 PM] [indexing]    Config file: /root/hardhat.config.js
+[Info  - 1:43:07 PM] [indexing] -  Type: Hardhat
+[Info  - 1:43:07 PM] [indexing]    Base path: /root/folder/hardhat-simple-storage-fcc
+[Info  - 1:43:07 PM] [indexing]    Config file: /root/folder/hardhat-simple-storage-fcc/hardhat.config.js
+[Info  - 1:43:07 PM] [indexing] Initializing /root/hardhat.config.js
+[Error - 1:43:08 PM] [root] "Error loading HRE: HardhatError: HH8: There's one or more errors in your config file:\n\n  * Invalid account: #0 for network: goerli - private key too short, expected 32 bytes\n\nTo learn more about Hardhat's configuration, please go to https://hardhat.org/config/"
+[Info  - 1:43:08 PM] [root] Child process exited: 1
+[Info  - 1:43:08 PM] [indexing] Done /root/hardhat.config.js
+[Info  - 1:43:08 PM] [indexing] Initializing /root/folder/hardhat-simple-storage-fcc/hardhat.config.js
+[Info  - 1:43:09 PM] [hardhat-simple-storage-fcc] Local HRE loaded
+[Info  - 1:43:09 PM] [indexing] Done /root/folder/hardhat-simple-storage-fcc/hardhat.config.js
+[Info  - 1:43:09 PM] [indexing] Scanning workspace folders for sol files
+[Info  - 1:43:09 PM] [indexing] Scan complete, 989 sol files found
+[Info  - 1:43:10 PM] [indexing] Analyzing 989 solidity files
+[Info  - 1:55:58 PM] [root] Config file changed. Restarting worker process.
+[Info  - 1:55:59 PM] [root] Local HRE loaded
+[Info  - 1:55:59 PM] [root] Config file changed. Restarting worker process.
+[Info  - 1:55:59 PM] [root] Child process exited: null
+[Info  - 1:55:59 PM] [root] Local HRE loaded
+[Info  - 1:56:58 PM] [root] Config file changed. Restarting worker process.
+[Info  - 1:56:58 PM] [root] Child process exited: null
+[Info  - 1:56:58 PM] [root] Local HRE loaded
+[Info  - 1:58:41 PM] [root] Config file changed. Restarting worker process.
+[Info  - 1:58:41 PM] [root] Child process exited: null
+[Info  - 1:58:41 PM] [root] Config file changed. Restarting worker process.
+[Info  - 1:58:41 PM] [root] Child process exited: null
+[Info  - 1:58:42 PM] [root] Local HRE loaded
+[Info  - 2:02:25 PM] [root] Config file changed. Restarting worker process.
+[Info  - 2:02:25 PM] [root] Child process exited: null
+[Info  - 2:02:25 PM] [root] Local HRE loaded
+[Info  - 2:03:16 PM] [root] Config file changed. Restarting worker process.
+[Info  - 2:03:16 PM] [root] Child process exited: null
+[Error - 2:03:17 PM] [root] "Error loading HRE: HardhatError: HH8: There's one or more errors in your config file:\n\n  * Invalid account: #0 for network: goerli - private key too short, expected 32 bytes\n\nTo learn more about Hardhat's configuration, please go to https://hardhat.org/config/"
+[Info  - 2:03:17 PM] [root] Child process exited: 1
+[Info  - 2:06:07 PM] [root] Config file changed. Restarting worker process.
+[Error - 2:06:07 PM] [root] "Error loading HRE: HardhatError: HH8: There's one or more errors in your config file:\n\n  * Invalid account: #0 for network: goerli - private key too short, expected 32 bytes\n\nTo learn more about Hardhat's configuration, please go to https://hardhat.org/config/"
+[Info  - 2:06:07 PM] [root] Child process exited: 1
+[Info  - 2:09:53 PM] [root] Config file changed. Restarting worker process.
+[Error - 2:09:53 PM] [root] "Error loading HRE: HardhatError: HH8: There's one or more errors in your config file:\n\n  * Invalid value undefined for HardhatConfig.networks.goerli.url - Expected a value of type string.\n  * Invalid account: #0 for network: goerli - Expected string, received undefined\n\nTo learn more about Hardhat's configuration, please go to https://hardhat.org/config/"
+[Info  - 2:09:53 PM] [root] Child process exited: 1
+[Info  - 2:10:49 PM] [root] Config file changed. Restarting worker process.
+[Error - 2:10:50 PM] [root] "Error loading HRE: HardhatError: HH8: There's one or more errors in your config file:\n\n  * Invalid value undefined for HardhatConfig.networks.goerli.url - Expected a value of type string.\n  * Invalid account: #0 for network: goerli - Expected string, received undefined\n\nTo learn more about Hardhat's configuration, please go to https://hardhat.org/config/"
+[Info  - 2:10:50 PM] [root] Child process exited: 1
+[Info  - 2:11:44 PM] [root] Config file changed. Restarting worker process.
+[Error - 2:11:45 PM] [root] "Error loading HRE: HardhatError: HH8: There's one or more errors in your config file:\n\n  * Invalid value undefined for HardhatConfig.networks.goerli.url - Expected a value of type string.\n  * Invalid account: #0 for network: goerli - Expected string, received undefined\n\nTo learn more about Hardhat's configuration, please go to https://hardhat.org/config/"
+[Info  - 2:11:45 PM] [root] Child process exited: 1
+[Info  - 2:16:59 PM] [root] Config file changed. Restarting worker process.
+[Error - 2:17:00 PM] [root] "Error loading HRE: HardhatError: HH8: There's one or more errors in your config file:\n\n  * Invalid value undefined for HardhatConfig.networks.goerli.url - Expected a value of type string.\n  * Invalid account: #0 for network: goerli - Expected string, received undefined\n\nTo learn more about Hardhat's configuration, please go to https://hardhat.org/config/"
+[Info  - 2:17:00 PM] [root] Child process exited: 1

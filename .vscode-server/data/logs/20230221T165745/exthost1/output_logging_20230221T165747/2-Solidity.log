@@ -1,0 +1,62 @@
+[Info  - 4:57:48 PM] Solidity by Nomic Foundation Starting ...
+[Info  - 4:57:48 PM] env: production
+[Info  - 4:57:48 PM] Client starting
+[Info  - 4:57:49 PM] Language server starting
+[Info  - 4:57:49 PM]   Release: hardhat-solidity@0.6.10
+[Info  - 4:57:49 PM]   Environment: production
+[Info  - 4:57:49 PM]   Telemetry Enabled: false
+[Info  - 4:57:49 PM]   Telemetry Tracking Id: 0067dfea6e...
+[Info  - 4:57:49 PM]   Workspace Folders:
+[Info  - 4:57:49 PM]     hardhat-simple-storage-fcc (file:///root/folder/hardhat-simple-storage-fcc)
+[Info  - 4:57:49 PM] Fetching latest solidity versions
+[Info  - 4:57:49 PM] Language server ready
+[Info  - 4:57:49 PM] [indexing] Found projects:
+[Info  - 4:57:49 PM] [indexing] -  Type: Hardhat
+[Info  - 4:57:49 PM] [indexing]    Base path: /root/folder/hardhat-simple-storage-fcc
+[Info  - 4:57:49 PM] [indexing]    Config file: /root/folder/hardhat-simple-storage-fcc/hardhat.config.js
+[Info  - 4:57:49 PM] [indexing] Initializing /root/folder/hardhat-simple-storage-fcc/hardhat.config.js
+[Info  - 4:57:50 PM] [hardhat-simple-storage-fcc] Local HRE loaded
+[Info  - 4:57:50 PM] [indexing] Done /root/folder/hardhat-simple-storage-fcc/hardhat.config.js
+[Info  - 4:57:50 PM] [indexing] Scanning workspace folders for sol files
+[Info  - 4:57:50 PM] [indexing] Scan complete, 19 sol files found
+[Info  - 5:24:34 PM] [hardhat-simple-storage-fcc] Config file changed. Restarting worker process.
+[Info  - 5:24:34 PM] [hardhat-simple-storage-fcc] Child process exited: null
+[Info  - 5:24:34 PM] [hardhat-simple-storage-fcc] Local HRE loaded
+[Info  - 5:26:05 PM] [hardhat-simple-storage-fcc] Config file changed. Restarting worker process.
+[Info  - 5:26:05 PM] [hardhat-simple-storage-fcc] Child process exited: null
+[Info  - 5:26:05 PM] [hardhat-simple-storage-fcc] Local HRE loaded
+[Info  - 5:35:56 PM] [hardhat-simple-storage-fcc] Config file changed. Restarting worker process.
+[Info  - 5:35:56 PM] [hardhat-simple-storage-fcc] Child process exited: null
+[Error - 5:35:56 PM] [hardhat-simple-storage-fcc] "Error loading HRE: ReferenceError: COINMARKETCAP is not defined"
+[Info  - 5:35:56 PM] [hardhat-simple-storage-fcc] Child process exited: 1
+[Info  - 5:38:43 PM] [hardhat-simple-storage-fcc] Config file changed. Restarting worker process.
+[Info  - 5:38:44 PM] [hardhat-simple-storage-fcc] Local HRE loaded
+[Info  - 5:41:10 PM] [hardhat-simple-storage-fcc] Config file changed. Restarting worker process.
+[Info  - 5:41:10 PM] [hardhat-simple-storage-fcc] Child process exited: null
+[Info  - 5:41:11 PM] [hardhat-simple-storage-fcc] Local HRE loaded
+[Info  - 5:46:10 PM] [hardhat-simple-storage-fcc] Config file changed. Restarting worker process.
+[Info  - 5:46:10 PM] [hardhat-simple-storage-fcc] Child process exited: null
+[Info  - 5:46:10 PM] [hardhat-simple-storage-fcc] Local HRE loaded
+[Info  - 5:46:51 PM] [hardhat-simple-storage-fcc] Config file changed. Restarting worker process.
+[Info  - 5:46:51 PM] [hardhat-simple-storage-fcc] Child process exited: null
+[Info  - 5:46:51 PM] [hardhat-simple-storage-fcc] Local HRE loaded
+[Info  - 6:49:56 PM] [hardhat-simple-storage-fcc] Config file changed. Restarting worker process.
+[Info  - 6:49:56 PM] [hardhat-simple-storage-fcc] Child process exited: null
+[Info  - 6:49:56 PM] [hardhat-simple-storage-fcc] Local HRE loaded
+[Info  - 7:29:32 PM] [hardhat-simple-storage-fcc] Config file changed. Restarting worker process.
+[Info  - 7:29:32 PM] [hardhat-simple-storage-fcc] Child process exited: null
+[Info  - 7:29:33 PM] [hardhat-simple-storage-fcc] Local HRE loaded
+[Info  - 7:52:32 PM] [hardhat-simple-storage-fcc] Config file changed. Restarting worker process.
+[Info  - 7:52:32 PM] [hardhat-simple-storage-fcc] Child process exited: null
+[Info  - 7:52:33 PM] [hardhat-simple-storage-fcc] Local HRE loaded
+[Info  - 7:54:32 PM] [hardhat-simple-storage-fcc] Config file changed. Restarting worker process.
+[Info  - 7:54:32 PM] [hardhat-simple-storage-fcc] Child process exited: null
+[Info  - 7:54:33 PM] [hardhat-simple-storage-fcc] Local HRE loaded
+[Info  - 7:55:32 PM] [hardhat-simple-storage-fcc] Config file changed. Restarting worker process.
+[Info  - 7:55:32 PM] [hardhat-simple-storage-fcc] Child process exited: null
+[Info  - 7:55:32 PM] [hardhat-simple-storage-fcc] Local HRE loaded
+[Info  - 7:56:32 PM] [hardhat-simple-storage-fcc] Config file changed. Restarting worker process.
+[Info  - 7:56:32 PM] [hardhat-simple-storage-fcc] Child process exited: null
+[Info  - 7:56:32 PM] [hardhat-simple-storage-fcc] Config file changed. Restarting worker process.
+[Info  - 7:56:32 PM] [hardhat-simple-storage-fcc] Child process exited: null
+[Info  - 7:56:33 PM] [hardhat-simple-storage-fcc] Local HRE loaded

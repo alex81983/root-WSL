@@ -1,0 +1,98 @@
+0 verbose cli /root/.nvm/versions/node/v18.14.0/bin/node /root/.nvm/versions/node/v18.14.0/bin/npm
+1 info using npm@9.3.1
+2 info using node@v18.14.0
+3 timing npm:load:whichnode Completed in 1ms
+4 timing config:load:defaults Completed in 1ms
+5 timing config:load:file:/root/.nvm/versions/node/v18.14.0/lib/node_modules/npm/npmrc Completed in 1ms
+6 timing config:load:builtin Completed in 1ms
+7 timing config:load:cli Completed in 1ms
+8 timing config:load:env Completed in 0ms
+9 timing config:load:file:/root/.cache/typescript/4.9/.npmrc Completed in 0ms
+10 timing config:load:project Completed in 2ms
+11 timing config:load:file:/root/.npmrc Completed in 0ms
+12 timing config:load:user Completed in 0ms
+13 timing config:load:file:/root/.nvm/versions/node/v18.14.0/etc/npmrc Completed in 0ms
+14 timing config:load:global Completed in 0ms
+15 timing config:load:setEnvs Completed in 1ms
+16 timing config:load Completed in 6ms
+17 timing npm:load:configload Completed in 6ms
+18 timing npm:load:mkdirpcache Completed in 0ms
+19 timing npm:load:mkdirplogs Completed in 0ms
+20 verbose title npm install @types/chai@ts4.9 @types/prettier@ts4.9
+21 verbose argv "install" "--ignore-scripts" "@types/chai@ts4.9" "@types/prettier@ts4.9" "--save-dev" "--user-agent" "typesInstaller/4.9.5"
+22 timing npm:load:setTitle Completed in 1ms
+23 timing config:load:flatten Completed in 2ms
+24 timing npm:load:display Completed in 2ms
+25 verbose logfile logs-max:10 dir:/root/.npm/_logs/2023-02-25T22_34_41_029Z-
+26 verbose logfile /root/.npm/_logs/2023-02-25T22_34_41_029Z-debug-0.log
+27 timing npm:load:logFile Completed in 3ms
+28 timing npm:load:timers Completed in 0ms
+29 timing npm:load:configScope Completed in 0ms
+30 timing npm:load Completed in 13ms
+31 timing arborist:ctor Completed in 1ms
+32 silly logfile start cleaning logs, removing 1 files
+33 silly logfile done cleaning log files
+34 timing idealTree:init Completed in 19ms
+35 timing arborist:ctor Completed in 0ms
+36 http fetch GET 200 https://registry.npmjs.org/@types%2fprettier 153ms (cache revalidated)
+37 http fetch GET 200 https://registry.npmjs.org/@types%2fchai 664ms (cache revalidated)
+38 timing idealTree:userRequests Completed in 668ms
+39 silly idealTree buildDeps
+40 silly fetch manifest @types/chai@4.3.4
+41 silly fetch manifest @types/prettier@2.7.2
+42 silly placeDep ROOT @types/chai@4.3.4 REPLACE for:  want: 4.3.4
+43 silly placeDep ROOT @types/prettier@2.7.2 REPLACE for:  want: 2.7.2
+44 timing idealTree:#root Completed in 4ms
+45 timing idealTree:node_modules/@types/chai Completed in 0ms
+46 timing idealTree:node_modules/@types/prettier Completed in 0ms
+47 timing idealTree:buildDeps Completed in 5ms
+48 timing idealTree:fixDepFlags Completed in 0ms
+49 timing idealTree Completed in 692ms
+50 timing reify:loadTrees Completed in 692ms
+51 timing reify:diffTrees Completed in 1ms
+52 silly reify moves {}
+53 timing reify:retireShallow Completed in 1ms
+54 timing reify:createSparse Completed in 0ms
+55 timing reify:loadBundles Completed in 0ms
+56 silly audit bulk request {
+56 silly audit   '@types/buffer-from': [ '1.1.0' ],
+56 silly audit   '@types/d': [ '1.0.1' ],
+56 silly audit   '@types/death': [ '1.1.2' ],
+56 silly audit   '@types/debug': [ '4.1.7' ],
+56 silly audit   '@types/dot': [ '1.1.5' ],
+56 silly audit   '@types/fs-ext': [ '2.0.0' ],
+56 silly audit   '@types/fs-extra': [ '11.0.1' ],
+56 silly audit   '@types/inherits': [ '0.0.30' ],
+56 silly audit   '@types/jsonfile': [ '6.1.1' ],
+56 silly audit   '@types/mkdirp': [ '1.0.2' ],
+56 silly audit   '@types/ms': [ '0.7.31' ],
+56 silly audit   '@types/node': [ '18.13.0' ],
+56 silly audit   '@types/readable-stream': [ '2.3.15' ],
+56 silly audit   '@types/semver': [ '7.3.13' ],
+56 silly audit   '@types/source-map-support': [ '0.5.6' ],
+56 silly audit   '@types/supports-color': [ '8.1.1' ],
+56 silly audit   '@types/util-deprecate': [ '1.0.0' ],
+56 silly audit   'safe-buffer': [ '5.1.2' ],
+56 silly audit   'source-map': [ '0.6.1' ],
+56 silly audit   'types-registry': [ '0.1.632' ],
+56 silly audit   '@types/chai': [ '4.3.4' ],
+56 silly audit   '@types/prettier': [ '2.7.2' ]
+56 silly audit }
+57 timing reify:unpack Completed in 0ms
+58 timing reify:unretire Completed in 0ms
+59 timing build:queue Completed in 0ms
+60 timing build:deps Completed in 0ms
+61 timing build Completed in 0ms
+62 timing reify:build Completed in 0ms
+63 timing reify:trash Completed in 0ms
+64 timing reify:save Completed in 7ms
+65 http fetch POST 200 https://registry.npmjs.org/-/npm/v1/security/advisories/bulk 122ms
+66 timing auditReport:getReport Completed in 123ms
+67 silly audit report {}
+68 timing auditReport:init Completed in 0ms
+69 timing reify:audit Completed in 124ms
+70 timing reify Completed in 821ms
+71 timing command:install Completed in 823ms
+72 verbose exit 0
+73 timing npm Completed in 843ms
+74 info ok
