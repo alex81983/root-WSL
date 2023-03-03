@@ -9,7 +9,7 @@ const networkConfig = {
     }
 }
 
-const developmentChain = ["hardhat", "localhost"]
+const developmentChains = ["hardhat", "localhost"]
 const DECIMALS = 8
 const INITAL_ANSWER = 200000000000
 

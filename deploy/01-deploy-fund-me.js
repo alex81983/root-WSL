@@ -43,6 +43,6 @@ module.exports = async({ getNamedAccounts, deployments }) =>{
     }    
     log ("-------------------------------------------")
   }
-  module.exports.tags = all["all", "fundme"]
+  module.exports.tags = ["all", "fundme"]
 
 
