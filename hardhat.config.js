@@ -11,7 +11,6 @@ require("hardhat-deploy")
 /**
  * @type import('hardhat/config').HardhatUserConfig
  */
-import('hardhat/config.js').HardhatUserConfig
 const COINMARKETCAP_API_KEY = process.env.COINMARKETCAP_API_KEY 
 const GOERLI_RPC_URL = process.env.GOERLI_RPC_URL
 const PRIVATE_KEY = process.env.PRIVATE_KEY 
