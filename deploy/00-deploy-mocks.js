@@ -1,5 +1,5 @@
 const { network } = require("hardhat")
-const { developmentChains, DECIMALS, INITAL_ANSWER} = require("../helper-hardhat-config")
+const { developmentChains, DECIMALS, INITIAL_PRICE} = require("../helper-hardhat-config")
 require("dotenv").config()
 
 
@@ -15,7 +15,7 @@ module.exports = async({ getNamedAccounts, deployments }) => {
             from: deployer,
             log: true,
             args: [DECIMALS, INITIAL_PRICE],
-        })
+      })
       log("Mocks deployed!")
       log("------------------------------------------")
     }

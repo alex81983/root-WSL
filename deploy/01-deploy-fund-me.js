@@ -24,12 +24,12 @@ module.exports = async({ getNamedAccounts, deployments }) =>{
    let ethUsdPriceFeedAddress
    if(developmentChains.includes(network.name)){
       const ethUsdAggregator = await deployments.get("MockV3Aggregator")
-      ethUsdPriceFeedAddress =ethUsdAggregator
+      ethUsdPriceFeedAddress =ethUsdAggregator.address
     } else {
       ethUsdPriceFeedAddress = networkConfig[chainId]["ethUsdPriceFeed"]
     }
     
-    const arg = [ethUsdPriceFeedAddress]
+    const args = [ethUsdPriceFeedAddress]
     const fundMe = await deploy("FundMe", {
           from: deployer,
           args: args, // price feed address
