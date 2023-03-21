@@ -1,0 +1,23 @@
+[Trace 00:37:15.741] VsCodeClientWorkspace: TextDocument.onDidOpen: file:///root/README.md
+[Trace 00:37:15.742] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///root/README.md
+[Trace 00:37:15.743] Server: connection.languages.diagnostics.on: file:///root/README.md
+[Trace 00:37:15.744] Server: connection.languages.diagnostics.on: file:///root/README.md
+[Trace 00:37:15.801] DocumentSymbolProvider: provideDocumentSymbols — file:///root/README.md 1
+[Debug 00:37:15.801] LinkProvider: compute - file:///root/README.md
+[Debug 00:37:15.866] TableOfContentsProvider: create - file:///root/README.md
+[Debug 00:37:15.975] MdFoldingProvider: provideFoldingRanges — file:///root/README.md 1
+[Trace 00:37:16.282] VsCodeClientWorkspace: TextDocument.onDidClose: file:///root/README.md
+[Trace 00:37:16.282] VsCodeClientWorkspace: deleteDocument: file:///root/README.md
+[Trace 03:22:20.586] Server: connection.languages.diagnostics.on: file:///root/README.md
+[Trace 03:22:20.609] VsCodeClientWorkspace: TextDocument.onDidOpen: file:///root/README.md
+[Trace 03:22:20.610] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///root/README.md
+[Trace 03:22:20.610] Server: connection.languages.diagnostics.on: file:///root/README.md
+[Trace 03:22:20.611] DocumentSymbolProvider: provideDocumentSymbols — file:///root/README.md 1
+[Debug 03:22:20.612] LinkProvider: compute - file:///root/README.md
+[Trace 03:22:20.613] Server: connection.languages.diagnostics.on: file:///root/README.md
+[Debug 03:22:20.615] TableOfContentsProvider: create - file:///root/README.md
+[Debug 03:22:20.788] MdFoldingProvider: provideFoldingRanges — file:///root/README.md 1
+[Trace 03:22:21.591] Server: connection.languages.diagnostics.on: file:///root/README.md
+[Trace 03:22:22.675] Server: connection.languages.diagnostics.on: file:///root/README.md
+[Trace 03:22:22.675] VsCodeClientWorkspace: TextDocument.onDidClose: file:///root/README.md
+[Trace 03:22:22.675] VsCodeClientWorkspace: deleteDocument: file:///root/README.md

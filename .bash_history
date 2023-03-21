@@ -270,3 +270,139 @@ yarn hardhat deploy --network goerli
 yarn hardhat console.log
 yarn hardhat deploy --network goerli
 yarn hardhat run deploy --network goerli
+git --version
+git init
+git remote add origin https://github.com/alex81983/-root-WSL-Ubuntu- 
+git add .
+git commit -m "initial commit"
+git branch -M main
+git push -u origin main 
+yarn hardhat deploy network --goerli
+npm i dotenv
+yarn .env install
+yarn add .env
+yarn hardhat add .env
+yarn hardhat deploy --network goerli
+yarn hardhat deploy network-- goerli
+yarn add --dev dotenv
+yarn hardhat deploy --network goerli
+yarn hardhat
+yarn hardhat deploy --network goerli
+yarn hardhat deploy
+yarn hardhat @chainlink/contracts
+yarn add @chainlink/contracts
+yarn hardhat deploy
+yarn hardhat compile
+yarn hardhat
+yarn hardhat deploy
+import('hardhat/config').HardhatUserConfig
+yarn hardhat deploy --network goerli
+yarn hardhat deploy --network goerli
+yarn hardhat deploy
+yarn hardhat deploy --tags mocks
+yarn hardhat deploy
+yarn hardhat deploy --network goerli
+yarn hardhat deploy
+git remote add origin https://github.com/alex81983/-root-WSL-Ubuntu-
+git remote add origin https://github.com/alex81983/github.root 
+git remote add origin https://github.com/alex81983/github.root.git
+git remote add origin https://github.com/alex81983/root-WSL.git
+git branch -M main
+git push -u origin main
+git remote add origin https://github.com/alex81983/root-WSL 
+git remote
+git remote -v
+git remote remove origin
+git remote
+git remote add origin https://github.com/alex81983/root-WSL.git
+git branch -M main
+git push -u origin main
+yarn hardhat deploy 
+yarn add dotenv
+yarn hardhat deploy 
+git fetch upstream
+git pull upstream master
+git remote add origin https://github.com/alex81983/root-WSL/branches
+git remote remove origin
+git remote set-url origin git://https://github.com/alex81983/root-WSL/tree/main
+git remove origin
+git remote origin
+git add
+git init
+git add *       
+git commit -m "Initial commit"
+git branch -M main
+git remote add origin https://github.com/alex81983/root-WSL 
+git push -f origin main 
+git init
+git add *       
+git commit -m "Initial commit"
+git branch -M main
+git remote add origin https://github.com/alex81983/root-WSL 
+git push -f origin main 
+yarn hardhat deploy
+git init
+git add *       
+git commit -m "Initial commit"
+git branch -M main
+git remote add origin https://github.com/alex81983/root-WSL 
+git push -f origin main 
+yarn hardhat deploy
+git init
+git add *       
+git commit -m "Initial commit"
+git branch -M main
+git remote add origin <repo url>
+git push -f origin main
+yarn hardhat deploy
+git init
+git add *       
+git commit -m "Initial commit"
+git branch -M main
+git remote add origin <repo url>
+git push -f origin main
+yarn hardhat deploy
+yarn hardhat deploy --network goerli
+yarn hardhat deploy
+yarn hardhat deploy --network goerli
+yarn hardhat deploy--network goerli
+yarn hardhat --network goerli
+yarn hardhat deploy --network goerli
+yarn hardhat deploy
+yarn hardhat deploy --network goerli
+yarn hardhat deploy
+yarn hardhat deploy --network sepolia
+cd test/
+mkdir staging
+mkdir unit
+yarn hardhat test
+yarn hardhat coverage
+yarn hardhat test
+yarn install
+yarn hardhat test
+npm i --save-dev ethers@5.7.2
+yarn hardhat test
+npm install -D hardhat-deploy
+yarn install
+yarn hardhat test
+yarn hardhat deploy --network sepolia
+yarn hardhat test
+yarn hardhat compile
+yarn hardhat test
+yarn hardhat compile
+yarn hardhat test
+yarn hardhat compile
+yarn hardhat test
+yarn hardhat run --network local host
+yarn hardhat run --network localhost 
+yarn hardhat test
+yarn remove ethers
+yarn add ethers@5.7.2
+yarn hardhat test
+yarn install
+yarn hardhat compile
+yarn hardhat test
+yarn remove ethers
+yarn add ethers@5.7.2
+yarn hardhat compile
+yarn hardhat test

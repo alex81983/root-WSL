@@ -1,0 +1,29 @@
+[Info  - 8:14:39 PM] Solidity by Nomic Foundation Starting ...
+[Info  - 8:14:39 PM] env: production
+[Info  - 8:14:40 PM] Client starting
+[Info  - 8:14:41 PM] Language server starting
+[Info  - 8:14:41 PM]   Release: hardhat-solidity@0.6.12
+[Info  - 8:14:41 PM]   Environment: production
+[Info  - 8:14:41 PM]   Telemetry Enabled: false
+[Info  - 8:14:41 PM]   Telemetry Tracking Id: 0067dfea6e...
+[Info  - 8:14:41 PM]   Workspace Folders:
+[Info  - 8:14:41 PM]     root (file:///root)
+[Info  - 8:14:41 PM] Fetching latest solidity versions
+[Info  - 8:14:41 PM] Language server ready
+[Info  - 8:14:41 PM] [indexing] Found projects:
+[Info  - 8:14:41 PM] [indexing] -  Type: Hardhat
+[Info  - 8:14:41 PM] [indexing]    Base path: /root
+[Info  - 8:14:41 PM] [indexing]    Config file: /root/hardhat.config.js
+[Info  - 8:14:41 PM] [indexing] -  Type: Hardhat
+[Info  - 8:14:41 PM] [indexing]    Base path: /root/hardhat-simple-storage-fcc
+[Info  - 8:14:41 PM] [indexing]    Config file: /root/hardhat-simple-storage-fcc/hardhat.config.js
+[Info  - 8:14:41 PM] [indexing] Initializing /root/hardhat.config.js
+[Info  - 8:14:42 PM] [root] Local HRE loaded
+[Info  - 8:14:42 PM] [indexing] Done /root/hardhat.config.js
+[Info  - 8:14:42 PM] [indexing] Initializing /root/hardhat-simple-storage-fcc/hardhat.config.js
+[Info  - 8:14:43 PM] [hardhat-simple-storage-fcc] Local HRE loaded
+[Info  - 8:14:43 PM] [indexing] Done /root/hardhat-simple-storage-fcc/hardhat.config.js
+[Info  - 8:14:43 PM] [indexing] Scanning workspace folders for sol files
+[Info  - 8:14:43 PM] [indexing] Scan complete, 989 sol files found
+[Info  - 8:14:43 PM] [indexing] Analyzing 5 solidity files
+[Info  - 8:17:26 PM] Telemetry disabled
