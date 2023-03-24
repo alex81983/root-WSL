@@ -1,25 +1,25 @@
 const { network } = require("hardhat")
-const { developmentChains, DECIMALS, INITIAL_ANSWER} = require("../helper-hardhat-config")
+const { developmentChains } = require("../helper-hardhat-config")
 require("dotenv").config()
 
-
-module.exports = async({ getNamedAccounts, deployments }) => {
+module.exports = async function ({ getNamedAccounts, deployments }) {
     const { deploy, log } = deployments
     const { deployer } = await getNamedAccounts()
     const chainId = network.config.chainId
-    
+
+    const DECIMALS = 8
+    const INITIAL_ANSWER = 200000000
+
     if (developmentChains.includes(network.name)) {
-        log("Local network detected! Deploying mocks...")
-        await deploy("MockV3Aggregator", {
+        log("Deploying mockV3Aggregator")
+        const mockV3Aggregator = await deploy("MockV3Aggregator", {
             contract: "MockV3Aggregator",
             from: deployer,
-            log: true,
             args: [DECIMALS, INITIAL_ANSWER],
-      })
-      log("Mocks deployed!")
-      log("------------------------------------------")
+            log: true,
+        })
+        log(`mockV3Aggregator contract address: ${mockV3Aggregator.address}`)
     }
-    }
+}
 
-
-    module.exports.tags = ["all", "mocks"]
+module.exports.tags = ["all", "mocks"]

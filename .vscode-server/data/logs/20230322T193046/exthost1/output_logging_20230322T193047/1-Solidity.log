@@ -1,0 +1,46 @@
+[Info  - 7:30:48 PM] Solidity by Nomic Foundation Starting ...
+[Info  - 7:30:48 PM] env: production
+[Info  - 7:30:48 PM] Client starting
+[Info  - 7:30:49 PM] Language server starting
+[Info  - 7:30:49 PM]   Release: hardhat-solidity@0.6.14
+[Info  - 7:30:49 PM]   Environment: production
+[Info  - 7:30:49 PM]   Telemetry Enabled: false
+[Info  - 7:30:49 PM]   Telemetry Tracking Id: 0067dfea6e...
+[Info  - 7:30:49 PM]   Workspace Folders:
+[Info  - 7:30:49 PM]     root (file:///root)
+[Info  - 7:30:49 PM] Fetching latest solidity versions
+[Info  - 7:30:50 PM] Language server ready
+[Info  - 7:30:50 PM] [indexing] Found projects:
+[Info  - 7:30:50 PM] [indexing] -  Type: Hardhat
+[Info  - 7:30:50 PM] [indexing]    Base path: /root
+[Info  - 7:30:50 PM] [indexing]    Config file: /root/hardhat.config.js
+[Info  - 7:30:50 PM] [indexing] -  Type: Hardhat
+[Info  - 7:30:50 PM] [indexing]    Base path: /root/hardhat-simple-storage-fcc
+[Info  - 7:30:50 PM] [indexing]    Config file: /root/hardhat-simple-storage-fcc/hardhat.config.js
+[Info  - 7:30:50 PM] [indexing] Initializing /root/hardhat.config.js
+[Info  - 7:30:50 PM] [root] Local HRE loaded
+[Info  - 7:30:50 PM] [indexing] Done /root/hardhat.config.js
+[Info  - 7:30:50 PM] [indexing] Initializing /root/hardhat-simple-storage-fcc/hardhat.config.js
+[Info  - 7:30:51 PM] [hardhat-simple-storage-fcc] Local HRE loaded
+[Info  - 7:30:51 PM] [indexing] Done /root/hardhat-simple-storage-fcc/hardhat.config.js
+[Info  - 7:30:51 PM] [indexing] Scanning workspace folders for sol files
+[Info  - 7:30:51 PM] [indexing] Scan complete, 989 sol files found
+[Info  - 7:30:52 PM] [indexing] Analyzing 5 solidity files
+[Info  - 7:36:43 PM] Telemetry disabled
+[Info  - 7:41:36 PM] [root] Config file changed. Restarting worker process.
+[Info  - 7:41:36 PM] [root] Child process exited: null
+[Info  - 7:41:36 PM] [root] Local HRE loaded
+[Info  - 7:42:45 PM] [root] Config file changed. Restarting worker process.
+[Info  - 7:42:45 PM] [root] Child process exited: null
+[Info  - 7:42:45 PM] [root] Config file changed. Restarting worker process.
+[Info  - 7:42:45 PM] [root] Child process exited: null
+[Info  - 7:42:45 PM] [root] Local HRE loaded
+[Error - 7:49:02 PM] Cannot read properties of undefined (reading 'split')
+[Error - 7:51:27 PM] Cannot read properties of undefined (reading 'split')
+[Error - 7:59:06 PM] Cannot read properties of undefined (reading 'split')
+[Info  - 9:34:57 PM] [hardhat-simple-storage-fcc] Config file changed. Restarting worker process.
+[Info  - 9:34:57 PM] [hardhat-simple-storage-fcc] Child process exited: null
+[Info  - 9:34:57 PM] [root] Config file changed. Restarting worker process.
+[Info  - 9:34:57 PM] [root] Child process exited: null
+[Info  - 9:34:58 PM] [hardhat-simple-storage-fcc] Local HRE loaded
+[Info  - 9:34:58 PM] [root] Local HRE loaded

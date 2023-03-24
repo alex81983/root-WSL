@@ -1,0 +1,12 @@
+2023-03-21 17:25:43.251 [info] 
+
+
+
+
+2023-03-21 17:25:43.275 [info] Extension host agent started.
+2023-03-21 17:25:43.332 [info] Deleted from disk nomicfoundation.hardhat-solidity /root/.vscode-server/extensions/nomicfoundation.hardhat-solidity-0.6.12
+2023-03-21 17:25:43.407 [info] [127.0.0.1][6c3b5fd7][ManagementConnection] New connection established.
+2023-03-21 17:25:43.740 [info] [127.0.0.1][f5d4bab0][ExtensionHostConnection] New connection established.
+2023-03-21 17:25:43.743 [info] [127.0.0.1][f5d4bab0][ExtensionHostConnection] <467> Launched Extension Host Process.
+2023-03-21 18:13:48.287 [info] [127.0.0.1][6c3b5fd7][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-03-21 18:13:48.330 [info] [127.0.0.1][f5d4bab0][ExtensionHostConnection] <467> Extension Host Process exited with code: 0, signal: null.

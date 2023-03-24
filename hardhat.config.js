@@ -5,27 +5,26 @@ require("dotenv").config()
 require("solidity-coverage")
 require("hardhat-deploy")
 
-
 // You need to export an object to set up your config
 // Go to https://hardhat.org/config/ to learn more
 /**
  * @type import('hardhat/config').HardhatUserConfig
  */
-const COINMARKETCAP_API_KEY = process.env.COINMARKETCAP_API_KEY 
+const COINMARKETCAP_API_KEY = process.env.COINMARKETCAP_API_KEY
 const SEPOLIA_RPC_URL = process.env.SEPOLIA_RPC_URL
-const PRIVATE_KEY = process.env.PRIVATE_KEY 
-const ETHERSCAN_API_KEY = process.env.ETHERSCAN_API_KEY 
+const PRIVATE_KEY = process.env.PRIVATE_KEY
+const ETHERSCAN_API_KEY = process.env.ETHERSCAN_API_KEY
 
 module.exports = {
-   // solidity: "0.8.0"
+    // solidity: "0.8.0"
     defaultNetwork: "hardhat",
     networks: {
-       sepolia: {
-            url:"https://eth-sepolia.g.alchemy.com/v2/kj0hWm5Qm2ByvuexnN2aHx5g4PjGzrop",
+        sepolia: {
+            url: "https://eth-sepolia.g.alchemy.com/v2/kj0hWm5Qm2ByvuexnN2aHx5g4PjGzrop",
             accounts: [PRIVATE_KEY],
             chainId: 11155111,
             blockConfirmations: 6,
-       },
+        },
     },
     solidity: {
         compilers: [
@@ -40,15 +39,14 @@ module.exports = {
     etherscan: {
         apiKey: ETHERSCAN_API_KEY,
         // customChains: [], // uncomment this line if you are getting a TypeError: customChains is not iterable
-
     },
     gasReporter: {
-        enabled: false,
+        enabled: true,
         currency: "USD",
         outputFile: "gas-report.txt",
         noColors: true,
         coinmarketcap: COINMARKETCAP_API_KEY,
-        token: "MATIC",
+        token: "ETH",
     },
     namedAccounts: {
         deployer: {

@@ -1,1 +1,1 @@
-{"private":true,"dependencies":{"types-registry":"^0.1.636"},"devDependencies":{"@types/chai":"^4.3.4","@types/fs-extra":"^11.0.1","@types/graceful-fs":"^4.1.6","@types/prettier":"^2.7.2","@types/universalify":"^1.0.0"}}
+{"private":true,"dependencies":{"types-registry":"^0.1.636"},"devDependencies":{"@types/chai":"^4.3.4","@types/d":"^1.0.1","@types/dot":"^1.1.5","@types/fs-extra":"^11.0.1","@types/graceful-fs":"^4.1.6","@types/prettier":"^2.7.2","@types/universalify":"^1.0.0"}}

@@ -406,3 +406,36 @@ yarn remove ethers
 yarn add ethers@5.7.2
 yarn hardhat compile
 yarn hardhat test
+git remote add origin <https://github.com/alex81983/root-WSL> 
+git add .
+git commit -m "initial commit"
+git branch -M main
+git push -u origin main
+yarn hardhat test
+yarn hardhat tesat
+yarn hardhat test
+yarn hardhat test --grep "amount funded"
+yarn hardhat test
+yarn hardhat test --grep "funder to array"
+yarn hardhat coverage
+yarn hardhat test --grep "Withdraw ETH"
+yarn hardhat test --grep "withdraw ETH"
+yarn hardhat test --grep "withdraw with mutiple funders"
+yarn hardhat test --grep "Only allows the owner to withdraw"
+yarn hardhat test
+yarn hardhat deploy
+yarn hardhat deploy --network sepolia
+yarn hardhat test
+yarn hardhat node
+yarn hardhat run scripts/fund.js
+yarn lint
+yarn hardhat lint
+yarn format
+yarn lint:fix
+yarn test
+yarn hardhat run scripts/fund.js --network localhost
+yarn hardhat run scripts/withdraw.js --network localhost
+yarn hardhat solhint
+yarn hardhat lint
+yarn hardhat node
+yarn coverage
